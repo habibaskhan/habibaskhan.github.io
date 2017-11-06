@@ -1,20 +1,29 @@
 body{
-background-color:lightblue;
+background-color:#ae872a;
 }
 h1{
-color:white;
+color:#271105;
 text-align:center;
 font-family: 'Montserrat', sans-serif;;
 }
 p{
 padding:50px;
-text-align:left;
+text-align:center;
 font-size:20px;
 font-family: 'Montserrat', sans-serif;
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+color:#651a12;
 }
 img{
 padding:50px;
 }
 p{
 font-family: 'Montserrat', sans-serif;
+color:#271105;
+}
+ul{
+font-family: 'Montserrat', sans-serif;
+color:#651a12;
 }
